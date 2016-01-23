@@ -1,6 +1,6 @@
-application: your-app-id
-version: uno
-runtime: php
+application: lanzaderacloud
+version: 1
+runtime: php55
 api_version: 1
 threadsafe: false
 
